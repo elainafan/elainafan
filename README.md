@@ -4,7 +4,7 @@
 My Course Index:
 
 | Course Name | Time | Repository Ink | Additional ink 1 | Additional ink 2|
-| 程序设计实习<br>practice of programming in python&C++ | 2025 Spring | [homework(课程作业)] | [Warcraft(魔兽世界大作业)](https://github.com/elainafan/PKU_2025_Practice-of-programming-in-cpp_WarCraft) | [QT homework(QT大作业)](https://github.com/elainafan/notebook_for_PKU_2025_practice-of-programming-in-cpp) | (https://github.com/elainafan/PKU_2025_practice-of-programming-in-cpp_HomeWork)
+| 程序设计实习<br>practice of programming in python&C++ | 2025 Spring | [homework(课程作业)](https://github.com/elainafan/PKU_2025_practice-of-programming-in-cpp_HomeWork) | [Warcraft(魔兽世界大作业)](https://github.com/elainafan/PKU_2025_Practice-of-programming-in-cpp_WarCraft) | [QT homework(QT大作业)](https://github.com/elainafan/notebook_for_PKU_2025_practice-of-programming-in-cpp) | 
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32735%26project%3D%26in=0)](https://codetime.dev)
 
