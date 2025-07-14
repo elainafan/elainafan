@@ -2,7 +2,7 @@
 - This is my website [elainafan.github.io](https://elainafan.github.io),looking forward to your visits and comments!
 
 ##### My Course Index
-| Course Name                                                  | Time        | Repository Link                                              | Link 1 | Link 2|  
+| Course Name                                                  | Time        | Repository Link                                              | Addtional Link 1 | Additional Link 2|  
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **程序设计实习<br />Practice of Programming in Python&C++**                 | 2025 Spring | **[homework](https://github.com/elainafan/PKU_2025_practice-of-programming-in-cpp_HomeWork)** | **[Warcraft](https://github.com/elainafan/PKU_2025_Practice-of-programming-in-cpp_WarCraft)** | **[QT homework](https://github.com/elainafan/notebook_for_PKU_2025_practice-of-programming-in-cpp)** | 
 | **人工智能引论<br />Introduction to AI**                        | 2025 Spring | **[labs](https://github.com/elainafan/PKU_2025_Introduction_to_AI)** | N/A | N/A |
