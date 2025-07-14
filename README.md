@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elainafan, an undergraduate student in Peking University, major in Computer Science.
 - This is my website [elainafan.github.io](https://elainafan.github.io),looking forward to your visits and comments!
 
-My Course Index:
+My Course Index：
 
 | Course Name | Time | Repository Ink | Additional ink 1 | Additional ink 2|  
 | --- | --- | --- | --- | --- |
