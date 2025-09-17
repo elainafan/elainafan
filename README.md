@@ -4,6 +4,7 @@
 ##### My Course Index
 | Course Name                                                  | Time        | Repository Link                                              | Link 1 | Link 2 | States | 
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --- |
+| **音乐与数学<br />Music and Mathematics**                                   | 2025 Fall   |    |       |       | 😉updating |
 | **计算机系统导论<br />Introduction to Computer Systems**                    | 2025 Fall   | **[materials](https://github.com/elainafan/Introduction-to-Computer-Systems-2025Fall-PKU)**   |       |       | 😉updating |
 | **数据结构与算法A<br />Data Structures & Algorithms A**                      | 2025 Fall   | **[materials](https://github.com/elainafan/Data-Structures-and-Algorithms-A-2025Fall-PKU)**  |       |       | 😉updating |
 | **程序设计实习<br />Practice of Programming in Python&C++**                 | 2025 Spring | **[homework](https://github.com/elainafan/PKU_2025_practice-of-programming-in-cpp_HomeWork)** | **[Warcraft HW](https://github.com/elainafan/PKU_2025_Practice-of-programming-in-cpp_WarCraft)** | **[QT homework](https://github.com/elainafan/notebook_for_PKU_2025_practice-of-programming-in-cpp)** | ✅finished | 
