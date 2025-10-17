@@ -4,7 +4,7 @@
 ##### My Course Index
 | Course Name                                                  | Time        | Repository Link                                              | Link 1 | Link 2 | States | 
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --- |
-| **人工智能中的编程<br />Programming in AI**                                 | 2025 Fall   |    |       |       | 😉updating |
+| **人工智能中的编程<br />Programming in AI**                                 | 2025 Fall   | **[materials]https://github.com/elainafan/Programming-in-AI-2025Fall-PKU**                   |       |       | 😉updating |
 | **离散数学基础<br />Introduction to Discrete Mathematics**                  | 2025 Fall   |    |       |       | 😉updating |
 | **音乐与数学<br />Music and Mathematics**                                   | 2025 Fall   |    |       |       | 😉updating |
 | **计算机系统导论<br />Introduction to Computer Systems**                    | 2025 Fall   | **[materials](https://github.com/elainafan/Introduction-to-Computer-Systems-2025Fall-PKU)**   |  N/A  |  N/A  | 😉updating |
