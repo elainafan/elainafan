@@ -4,6 +4,7 @@
 ##### My Course Index
 | Course Name                                                  | Time        | Repository Link                                              | Link 1 | Link 2 | States | 
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --- |
+| **信息学中的概率统计<br />Probablity-Theory-and-Statistics**                | 2025 Fall   | **[materials](https://github.com/elainafan/Probablity-Theory-and-Statistics-2025Fall-PKU)     |  N/A  |  N/A  | 😉updating |
 | **人工智能中的编程<br />Programming in AI**                                 | 2025 Fall   | **[materials](https://github.com/elainafan/Programming-in-AI-2025Fall-PKU)**                  |  N/A  |  N/A  | 😉updating |
 | **离散数学基础<br />Introduction to Discrete Mathematics**                  | 2025 Fall   |    |       |       | 😉updating |
 | **音乐与数学<br />Music and Mathematics**                                   | 2025 Fall   |    |       |       | 😉updating |
