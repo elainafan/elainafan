@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @elainafan, an undergraduate student in Peking University, major in Computer Science.
-- This is my blog [elainafan.one](https://www.elainafan.one/),looking forward to your visits and comments!
+- Currently interested in algorithms and fun projects, and I spend most of my spare time on them.
+- This is my blog [elainafan.one](https://www.elainafan.one/), looking forward to your visits and comments!
+- If you are insterested in what I'm building, feel free to reach me at 869812580@qq.com or open a pull request~
 
 ##### My Course Index
 | Course Name                                                  | Time        | Repository Link                                              | Link 1 | Link 2 | States | 
