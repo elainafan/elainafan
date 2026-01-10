@@ -16,7 +16,7 @@
 | **人工智能引论<br />Introduction to AI**                        | 2025 Spring | **[Labs](https://github.com/elainafan/PKU_2025_Introduction_to_AI)** | N/A | N/A | ✅finished |
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32735)](https://codetime.dev)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elainafan)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-delta-gilt-32.vercel.app/api?username=elainafan&show_icons=true&theme=radical" alt="elainafan's GitHub stats" />
 
 <!---
 elainafan/elainafan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
